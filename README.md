@@ -6,5 +6,5 @@
 # pip2 install requests
 # pip2 install mechanize
 # rm -rf Delta-v2
-# https://github.com/Delta-virus/Delta-v2
+# git clone https://github.com/Delta-virus/Delta-v2
 # python Delta-v2.py
